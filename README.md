@@ -1,1 +1,2 @@
 # Swiftnote
+![Screenshot](screenshot.png)
